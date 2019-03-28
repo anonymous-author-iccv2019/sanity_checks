@@ -1,0 +1,7 @@
+touch==1.0.1
+torchvision==0.2.1
+matplotlib
+opencv-python
+numpy
+requests
+googledrivedownloader
